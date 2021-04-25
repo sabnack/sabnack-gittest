@@ -2,3 +2,4 @@ v0.1
 develop 1
 hotfix
 feature-1 1
+release 1
